@@ -1,5 +1,7 @@
 # 🎯 Word Guessing Game
 
+![Preview do projeto](.github/preview.jpg)
+
 Um jogo de **adivinhação de palavras** desenvolvido em **React**, onde o jogador deve descobrir a palavra correta digitando letras, com base em uma dica exibida na tela.
 
 O projeto foi criado com foco em **lógica, controle de estado, fluxo da aplicação e boas práticas com hooks**, especialmente `useState` e `useEffect`.
