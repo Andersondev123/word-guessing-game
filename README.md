@@ -1,5 +1,8 @@
 # 🎯 Word Guessing Game
 
+🔗 **Acesse em produção:**  
+https://adivinhe-tau.vercel.app
+
 ![Preview do projeto](.github/preview.jpg)
 
 Um jogo de **adivinhação de palavras** desenvolvido em **React**, onde o jogador deve descobrir a palavra correta digitando letras, com base em uma dica exibida na tela.
